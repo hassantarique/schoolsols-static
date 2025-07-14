@@ -1,0 +1,2 @@
+# schoolsols-static
+Static Assets
